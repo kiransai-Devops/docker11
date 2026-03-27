@@ -2,4 +2,4 @@ FROM almalinux
 ENV name="sai" \
     course="AWS" \
     region="india"
-CMD [ "sleep", "100" ]
+CMD [ "sleep", "1000" ]
